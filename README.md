@@ -1,12 +1,12 @@
 # RoboticTacToe
 Play TicTacToe against a raspberry pi robot arm.
 
-##Requirements:
+## Requirements:
   1. Raspberry pi
   2. Camera
   3. TicTacToe board
 
-##How to start:
+## How to start:
   1. Run Test.py. The camera will turn on. Center the board.
   2. Run Main.py
   3. Play
